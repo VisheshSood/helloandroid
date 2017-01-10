@@ -1,5 +1,5 @@
 # Hello Android
---
+
 This is my repository for the Hello Android Assignment for INFO 448.
 
 This project can be built using gradle. Source code for building the android application is in the hello directory.
